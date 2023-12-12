@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+
+body{background-color: rgb(59, 4, 4)}
+
+a {text-decoration: none;
+   color: white;
+
+}
+
+header {color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(35, 2, 2);
+    padding: 2em;
+
+    
+    
+
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 0,30em;
+    font-size: 3em;
+    
+}
+
+
+ul{    
+    text-align: center;
+    margin-top: 2em;
+
+
+}
+
+li{
+    color: white;
+    display: inline; 
+    padding: 1em;
+    padding-top: 0,30em;
+    text-align: center;
+
+}
+
+nav li a {
+        transition: color   200ms   ease;
+
+}
+
+nav li a:hover {
+    color: rgb(93, 25, 25);
+    text-decoration: underline;
+
+}
+  
+/*------------------menu--------------------*/
+
+body.home section img {
+margin-top: 3em;
+width: 100%;
+}
+
+body.home section h2,p{
+    margin-top: 2em;
+    text-align: center;
+    color: white;
+    font-family: serif;
+
+}
+
+
+
+
+.ontstaan{ 
+    font-size: 2,5em;
+    padding: 0,80em;
+}
+
+body.ontstaan section h2 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 2em;
+}
+
+.favoriete{
+    font-size: 2em;
+    padding: 0,9em;
+
+
+}
+
+
+
+.feitjes{
+    font-size: 2em;
+    padding: 0,9em;
+}
+
+.bronnen {
+    font-size: 2,5em;
+
+
+}
+
